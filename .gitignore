@@ -1,0 +1,10 @@
+test.sln
+.vs/
+test/env
+test/env1
+test/best_checkpoint.pth.tar
+test/checkpoint.pth.tar
+test/device.txt
+test/test.pyproj
+test/GazeCapture-master/pytorch/__pycache__
+test/GazeCapture-master/models
