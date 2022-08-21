@@ -1,0 +1,6 @@
+git status:查看當下git狀態
+git add <檔案名或.代表全部>:將更改加入待放區
+git commit -m "訊息":提交變更
+git push origin:推到github
+
+[程式碼]-[待放區]-[已記錄區]
